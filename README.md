@@ -1,0 +1,1 @@
+﻿# A C# Dictionary Cache Storage
